@@ -1,0 +1,2 @@
+Mailflare installation repository for the Cloudflare Worker "mailflare".
+Used by the admin dashboard Update button, which dispatches .github/workflows/deploy-update.yml.
